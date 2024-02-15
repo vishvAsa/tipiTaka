@@ -12,15 +12,38 @@ on:
 
 jobs:
   transform:
-    # Workaround for https://github.com/actions/runner-images/issues/6680
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
     - name: Inject slug/short variables
       uses: rlespinasse/github-slug-action@v4.4.1
+    - name: Basic info
+      run: |
+        echo "Partial variables"
+        echo "   repository owner    : ${{ env.GITHUB_REPOSITORY_OWNER_PART }}"
+        echo "   repository name     : ${{ env.GITHUB_REPOSITORY_NAME_PART }}"
+        echo "Slug variables"
+        echo "   repository          : ${{ env.GITHUB_REPOSITORY_SLUG }}"
+        echo "   repository owner    : ${{ env.GITHUB_REPOSITORY_OWNER_PART_SLUG }}"
+        echo "   repository name     : ${{ env.GITHUB_REPOSITORY_NAME_PART_SLUG }}"
+        echo "   ref                 : ${{ env.GITHUB_REF_SLUG }}"
+        echo "   head ref            : ${{ env.GITHUB_HEAD_REF_SLUG }}"
+        echo "   base ref            : ${{ env.GITHUB_BASE_REF_SLUG }}"
+        echo "   event ref           : ${{ env.GITHUB_EVENT_REF_SLUG }}"
+        echo "Slug URL variables"
+        echo "   repository          : ${{ env.GITHUB_REPOSITORY_SLUG_URL }}"
+        echo "   repository owner    : ${{ env.GITHUB_REPOSITORY_OWNER_PART_SLUG_URL }}"
+        echo "   repository name     : ${{ env.GITHUB_REPOSITORY_NAME_PART_SLUG_URL }}"
+        echo "   ref                 : ${{ env.GITHUB_REF_SLUG_URL }}"
+        echo "   head ref            : ${{ env.GITHUB_HEAD_REF_SLUG_URL }}"
+        echo "   base ref            : ${{ env.GITHUB_BASE_REF_SLUG_URL }}"
+        echo "   event ref           : ${{ env.GITHUB_EVENT_REF_SLUG_URL }}"
+        echo "Short SHA variables"
+        echo "   sha                 : ${{ env.GITHUB_SHA_SHORT }}"
+        echo "   pull request sha    : ${{ env.GITHUB_EVENT_PULL_REQUEST_HEAD_SHA_SHORT }}"
     - name: Checkout
-      id: checkout
       uses: actions/checkout@master
       with:
+        ref: master
         submodules: false
         # Setting true above seems to lead to submodule updation problems.
         fetch-depth: 1
@@ -28,8 +51,6 @@ jobs:
       id: update_submods
       run: |
         set -o xtrace
-        echo "=====${{ steps.changed-files.outputs.all_changed_files}}======"
-        echo "=====${{ steps.changed-files.outputs.all_changed_files}}======"
         git submodule update  --init --recursive
         git submodule update --remote --merge --recursive
     - name: Get changed files
@@ -41,16 +62,20 @@ jobs:
       uses: actions/github-script@v6
       with:
         script: |
-          var changed_files = '${{steps.changed-files.outputs.all_changed_files}}'.replace(/(?<= |^)content(?= |$)/, "").replace(/(?<= |^)static(?= |$)/, "").trim()
+          var changed_files = '${{steps.changed-files.outputs.all_changed_files}}'.replace(/(?<= |^)content\S*?(?= |$)/, "").trim()
           console.log(changed_files, changed_files.length)
           core.setOutput('count', changed_files.length.toString())
-
-    - name: Setup Hugo
-      id: setup_hugo
-      if: ${{ steps.changed-files.conclusion == 'skipped' || steps.filter_changed_files.outputs.count != '0'}}
-      uses: peaceiris/actions-hugo@v2
+    - name: Set content to pull request
+      if: ${{ github.event_name == 'pull_request'}}
+      uses: actions/checkout@master
       with:
-        hugo-version: "0.122.0"
+        path: static
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      if: ${{ steps.changed-files.conclusion == 'skipped' || steps.filter_changed_files.outputs.count != '0'}}
+      id: setup_hugo
+      with:
+        hugo-version: "0.119.0"
         # extended: true
       # Step 3 - Clean and don't fail
     - name: Clean build_github directory
