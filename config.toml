@@ -6,8 +6,10 @@ publishDir = "build_github"
 disablePathToLower = true
 
 [params]
-  githubEditMePathBase = "https://github.com/vvasuki/tipiTaka/edit/content/"
-  contactLink = "https://github.com/vvasuki/tipiTaka/issues/new"
+  githubEditMePathBase = "https://github.com/vishvAsa/tipiTaka/edit/content/"
+  contactLink = "https://github.com/vishvAsa/tipiTaka/issues/new"
+  build_img = "https://github.com/vishvAsa/tipiTaka/actions/workflows/build.yml/badge.svg"
+  build_url = "https://github.com/vishvAsa/tipiTaka/actions/workflows/build.yml"
   fullSearchURL = "/full_search"
   env = "production"
   disqusShortcode = "vvasuki-site"
@@ -18,3 +20,16 @@ disablePathToLower = true
 
 [markup.goldmark.renderer]
   unsafe= true
+
+[markup.highlight]
+  anchorLineNos = false
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ''
+  lineAnchors = ''
+  lineNoStart = 1
+  lineNos = true
+  lineNumbersInTable = true
+  noClasses = true
+  style = 'friendly'
+  tabWidth = 2
