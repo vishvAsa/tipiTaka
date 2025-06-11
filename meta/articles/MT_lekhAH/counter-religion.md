@@ -30,6 +30,8 @@ Then when they have heard such words,
 they feel great joy in their hearts,  
 and with reverence, they apply themselves earnestly to those gods.
 
+The maNDala of the MVT has a section where agni is drawn surrounded by the prominent R^iShi-s each holding the veda in hand. In medieval Japan some were accused as giving more importance to religion of the veda than saugatam.
+
 Commenting on this, buddhaguhya takes a position comparable to the bhagavad-gItA and effectively even the H religion leads to vairochana only (translation from the Chinese by Hodge).
 
 > People seek liberation through relying upon the self of ordinary foolish beings and upon the gods.  
@@ -40,4 +42,9 @@ Commenting on this, buddhaguhya takes a position comparable to the bhagavad-gItA
 > and those that are Awareness Beings (jñāna-sattva). 
 > 
 > In this case, those gods are also teachers of the path to ordinary nirvāṇa the knowledge and attainment of the Bhagavat Vairocana, you should view gods, such as Iśvara and Brahmā, etc., as Awareness Beings emanated from the Body of Vairocana.
+
+## kAlachakra return
+The kAlachakra presents a consciously unified vision. The bauddha's were clearly returning like errant child back to the parent for help as the marUnmatta's were bearing down.
+
+> For example, Śrī Kālacakra 3.169 and Vimalaprabhā 3.5.169 allow the Kālacakra initiate who understands reality to behave as a Buddhist, a Śaiva, a naked Paramahaṃsa, a Vaiṣṇava, a householder who has undergone brahmanical initiation, a brahman, a Kāpālika, a Jaina, an ordinary householder, a guard, a silent hermit, a madman, a Kula, a scholar, or a pupil.
 
