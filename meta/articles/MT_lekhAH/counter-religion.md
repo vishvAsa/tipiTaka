@@ -48,3 +48,12 @@ The kAlachakra presents a consciously unified vision. The bauddha's were clearly
 
 > For example, Śrī Kālacakra 3.169 and Vimalaprabhā 3.5.169 allow the Kālacakra initiate who understands reality to behave as a Buddhist, a Śaiva, a naked Paramahaṃsa, a Vaiṣṇava, a householder who has undergone brahmanical initiation, a brahman, a Kāpālika, a Jaina, an ordinary householder, a guard, a silent hermit, a madman, a Kula, a scholar, or a pupil.
 
+## Asura slant
+The mahAvairochana tantra and its commentator buddhaguhya on indra and asura mantra-s. It presents the idea of indra-jAla in the context of the indra mantra. Based on the commentary on the asura mantra, one has to entertain the idea right from its inception, as a counter-religion, the bauddha-s had a slant towards the asura-s. It is notable that the shAkya-siMha named his son rAhula after the asura. Later, they adopted sumbha and niShumbha as powerful anti-rudra mantra-s.
+
+> "Then, Indra manifests with mantras various kinds of things such as parks, lakes, streams and people."  
+Buddhaguhya: This shows the power of the mantra of Indra. When Indra and the gods fight with the Asura-s, they emanate countless Indra gods with mantras and deceive the Asuras, and they act with the power of illusion without being opposed anywhere. Through the power of Indra's mantra, groves, lakes, rivers, and people are conjured up and manifested.  
+"Then, for example, the Asura-s manifest illusions with mantras. Or, for example, there are mantras that counteract poison and fever."
+> 
+> Buddhaguhya: Then, for example, the Asura-s manifest illusions with mantras: This explains the power of the mantra of the Asura-s. What is that? When the Asura-s fight with Indra and the gods, they emanate countless Asura-s. Rāhula comes from the abode of the Asura-s and takes on a body taller than the King of Mountains Sumeru, and terrifies the gods, and they manifest magical illusions with its power. These two, the power of the illusion-making mantra of the Asura-s and the power of the mantra of Indra mentioned above, are explained as the middling power.  
+Buddhguhya: Or, for example, there are mantras that counteract poison and fever: This explains the power of the mantras of men. What is that: With the power of those mantras, they remove all poison and such diseases as fever and so forth.
