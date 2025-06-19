@@ -1,0 +1,19 @@
++++
+title = "DAkinI plagiarism"
++++
+
+It has been known for some time that the last layer of bauddha tantra composition, yoginI tantra collection, heavily plagiarized material from the shaiva bhairava-srotas and its kaula evolutes. However, while the term “yoginI” or “yogeshvarI” is the most commonly used for the goddesses of the corresponding shaiva system, the bauddha-s use the term DAkinI for their equivalents. 
+
+It is notable that in the early extant shaiva tantra-s, the terms like DAkinI and shAkinI are primarily used for malevolent deities, and they are not the focus of yAga-s of those systems. They might have a primarily negative connotation in these texts: e.g., the Damara-tantra-s (uDDAmareshvara, like affiliated with the bhUtasrotas) invoke chaNDeshvara to suppress the DAkinI-s and ghosts. We have comparable counter-DAkinI spells invoking unmatta-bhairava in the eponymous bhairava-tantra. However, DAkinI and shAkinI also appear as the names of kula-s yoginI-s in the vidyApITha class of tantras in the bhairava srotas, but even there, they retain a malevolent character and are not the most prominent group of yoginI-s receiving high worship. 
+
+But in the early kaula tantra-s like the yoga-pITha-kramodaya, DAkinI and shAkinI are notable yoginI-s of the dhAtunAthA class, but not classes of their own. Yet, despite maintaining their malevolent nature, the DAkinI-s appear early in the context of mAtR^ikA worship in the famous ga~NgdhAr inscript of 424 CE of mayUrAkShaka the minister of vishvavarman. It has a the statement in a lacunose line reading: "… idaM dAkinI-samprakIrNaM veshma+aty ugraM nR^ipati-sachivo .akArayat puNyahetoH ||’’ It talks of the establishment of a shrine of the mAtR^i-s which is endowed with the mighty power of the tantra-s and permeated with DAkinI-s who evidently make the shrine awe-inspiring (aty ugram). This hints that there was a lineage of shaiva-shAkta tradition where the DAkinI-s while still fierce or malevolent had a cultic prominence.
+
+Against this background, it is curious that the bauddha scholar dharmakIrti in his attack on Hindu ritual systems uses the phrase: "…DAkinI-bhaginI-tantrAdishu darshanAt". 
+
+He is believed to have lived close to Adi shaMkarAcharya in time ~600-660 CE. At this time, the bauddha tantra-s surviving in Sanskrit or Chinese translation do not yet show any signs of adopting DAkinI-s as central deities of their tAntrika system. In fact, they even assign negative roles to them as in the ma~njushrIya mUlakalpa. 
+
+However, we have evidence from the Gilgit manuscripts that the shaiva vAma-srotas tantras – the bhaginI tantra-s were already in place by then. Hence, together with the context of dharmakIrti’s reference to them, we should assume that there was also a non-bauddha (Hindu) class of tantra-s in place by then known as the DAkinI-tantra-s. Based on the ga~NgdhAr inscription we may infer that they likely had a shaiva-shAkta orientation, with an emphasis on the second element of that dyad. Hence, we suspect that in these apparently lost DAkinI tantra-s, the DAkinI-s played overlapping roles with the yoginI-s of the more standard bhairava-srotas and their kaula evolutes. 
+
+Hence, it seems that although the bauddha yoginI tantra-s borrowed heavily from the bhairava/kaula material, they inherited the class name "DAkinI’’ of their cultic female deities from the posited DAkinI-tantra-s. We see the first glimmer of this in the sarva-tathAgata-tattva-saMgraha where the mantra of the "vajrified’’ chAmuNDA, i.e., vajrakAlI, calls her vajraDAkinI.
+
+On the H side, we believe that apart from incorporation into some of the kulAmnAya-s, some of the early DAkinI material persisted in some form in the poorly studied tantra-s with a heavy shAkta orientation like hAhArAva, kAlAnala and ka~NkAlamAlinI and also in some pratya~NgirA related material.
