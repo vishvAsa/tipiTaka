@@ -2,7 +2,11 @@
 title = "Contemporary vajrayAna"
 +++
 
-For practical purposes, from the H perspective, they form a devatA-adoring barbarian nation, with slight echoes of the anti-vaidika bauddha counter-religion.
+For practical purposes, from the H perspective, they form a devatA-adoring barbarian nation, with confusions such as 
+
+- slight echoes of the anti-vaidika bauddha counter-religion
+- placing the devatA-s in service of the bauddha mata
+- addition of shAkyamuni to their pantheon. 
 
 ## Deities
 
