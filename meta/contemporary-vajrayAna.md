@@ -24,6 +24,12 @@ In the thiksey monastery, the fierce deities like yamAntaka are covered (so as t
 
 Some special thangka paintings are revealed only annually.
 
+### Prayers and Offerings
+- One can observe people chanting, praying and prostrating.
+- Lay people put down money and write their names in public shrine rooms so that they may be specially included among the beneficiaries of the next pUjA.
+- "7 cups of water" offering is supposedly popular.
+- One observes offerings of money, chocolates, cans of beer and cola ...
+
 ## Mantras and japa
 - Many mantras seem widely used without initiation (eg. maNi padme hum of avalokiteshvara, tuttAre of tArA, mune mune of shAkyamuni). Flags and engraved cylinders help japas; and quite a few old folks may be seen muttering them on walks.
 
