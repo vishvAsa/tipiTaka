@@ -2,7 +2,7 @@
 title = "Contemporary vajrayAna"
 +++
 
-For practical purposes, from the H perspective, they form a devatA-adoring barbarian nation, with confusions such as 
+For practical purposes, from the H perspective, vajrayAna followers (even dominated by non-Arya populations) are devatA-adoring, with confusions such as 
 
 - slight echoes of the anti-vaidika bauddha counter-religion
 - placing the devatA-s in service of the bauddha mata
@@ -52,6 +52,7 @@ Some special thangka paintings are revealed only annually.
 - Some are trained in tibetan Ayurveda medicine.
 - Occassional special rituals include homas, mask dances ...
 - There is some baba-ism. One sees photos of prominent rimpoches (=gems) everywhere.
+- The monks generally don't eat dinner.
 
 ### Monasteries / Gonpas
 - Central shrines features buddhas and lAmas (the high ones have hierarchically heightened seats). Lay visitors sit towards the back.
@@ -59,6 +60,11 @@ Some special thangka paintings are revealed only annually.
 - The shrine rooms often have good libraries with birch manuscripts (and some paper books).
 - Gonpas often have devatAs and their symbols on the roof points - eg. trishUla over a skull and drum.
 - Big Gonpa kitchens also serve lay visitors in the back of the monk dining hall.
+- Some monasteries have Tibetan Ayurveda apothecaries; with blue medicine buddha paintings.
+
+#### Upkeep
+- Gompas depend mostly on donations and ritual fees for upkeep.
+- Some have land holdings, receiving a fraction of cultivated material as rent. Bakula Rimpoche of lA-dakh supposedly drastically reduced this.
 
 
 ## AtmA
