@@ -69,3 +69,6 @@ Some special thangka paintings are revealed only annually.
 
 ## AtmA
 Overall, for most people, there is no emphaisis on anAtmA / pratItya-samudbhava of 5 skandha-s. 
+
+## shUnyatA
+While the word shUnya is thought to indicate some important concept represented by some symbology / imagery, people are almost always ignorant about it, and what it means. svabhAva-shUnyatA and nirvikalpakatA are very unclear.
