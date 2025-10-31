@@ -16,7 +16,8 @@ For practical purposes, from the H perspective, they form a devatA-adoring barba
   - Little roadside houses (could be empty), with fragrant burnt grasses.
   - consecrated paintings (thangka-s) and sculptures.
 - A notable deity is the horse-riding shrIdevI; whom the driver thanked on returning via chang-lA pass.
-- Animal sacrifices to these deities were common until the refugee dalai lAmA mostly stopped it all.
+- Curiously, mirroring paurANika religion, Indra is reduced in stature, and made to receive instruction from maitreya bodhi-sattva post-defeat.
+- Animal sacrifices to fierce guardian deities were common until the refugee dalai lAmA mostly stopped it all.
 
 
 ### Covering and revealing
