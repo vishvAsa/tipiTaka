@@ -44,6 +44,10 @@ Some special thangka paintings are revealed only annually.
 - The ladAkh driver recalled seeing rAmAyaNa on TV, and hearing para-tibeto-turko-mongol epic "gling gesar" or radio as a kid.
 
 
+## Death rituals
+Some texts (Tibetan book of the dead?) is read when someone dies.  
+Those who could afford built commemorative stUpas (lot of them around). 
+
 ## Clergy
 ### lAma
 - bauddha vajrayAna lAma-s function as ritualists. They are frequently compared to Hindu "paNDits" (ie. archakas and purohitas).
@@ -65,7 +69,7 @@ Some special thangka paintings are revealed only annually.
 #### Upkeep
 - Gompas depend mostly on donations and ritual fees for upkeep.
 - Some have land holdings, receiving a fraction of cultivated material as rent. Bakula Rimpoche of lA-dakh supposedly drastically reduced this.
-
+- People often contributed physical labor.
 
 ## AtmA
 Overall, for most people, there is no emphaisis on anAtmA / pratItya-samudbhava of 5 skandha-s. 
