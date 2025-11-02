@@ -15,7 +15,7 @@ For practical purposes, from the H perspective, vajrayAna followers (even domina
 - Representations - 
   - Little roadside houses (could be empty), with fragrant burnt grasses.
   - consecrated paintings (thangka-s) and sculptures.
-- A notable deity is the horse-riding shrIdevI; whom the driver thanked on returning via chang-lA pass.
+- A notable deity is the horse-riding shrIdevI; whom the driver loudly thanked on returning via chang-lA pass.
 - Curiously, mirroring paurANika religion, Indra is reduced in stature, and made to receive instruction from maitreya bodhi-sattva post-defeat.
 - Animal sacrifices to fierce guardian deities were common until the refugee dalai lAmA mostly stopped it all.
 
@@ -59,6 +59,7 @@ Those who could afford built commemorative stUpas (lot of them around).
 - The monks generally don't eat dinner.
 
 ### Monasteries / Gonpas
+- Structures include - shrines / chanting halls, kitchen/ dining hall, many lAmA houses, occassionally "lecture/ debate" halls, sometimes - traditional clincs + herb gardens.
 - Central shrines features buddhas and lAmas (the high ones have hierarchically heightened seats). Lay visitors sit towards the back.
 - Daily chanting includes occassional bells, gongs, drums, pipes.
 - The shrine rooms often have good libraries with birch manuscripts (and some paper books).
@@ -75,4 +76,4 @@ Those who could afford built commemorative stUpas (lot of them around).
 Overall, for most people, there is no emphaisis on anAtmA / pratItya-samudbhava of 5 skandha-s. 
 
 ## shUnyatA
-While the word shUnya is thought to indicate some important concept represented by some symbology / imagery, people are almost always ignorant about it, and what it means. svabhAva-shUnyatA and nirvikalpakatA are very unclear.
+While the word shUnya is thought to indicate some important concept represented by some symbology / imagery, people are almost always ignorant about it, and what it means. svabhAva-shUnyatA and nirvikalpakatA are generally unheard of.
