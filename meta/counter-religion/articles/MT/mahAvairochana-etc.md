@@ -1,7 +1,8 @@
 +++
-title = "Counter religion"
+title = "mahAvairochana etc."
 +++
 
+## mahAvairochana tantra
 The mahAvairochana tantra is a bauddha tantra at the very base of the yoga class of saugata tantra-s whose Sanskrit original has been lost in India. There, the cosmic buddha vairochana teaches what he terms the religion of the “foolish common folk.” (translated from the Chinese by Hodge) One can immediately see why we see this as a counter-religion.
 
 > These gods are great gods:  
@@ -32,6 +33,7 @@ and with reverence, they apply themselves earnestly to those gods.
 
 The maNDala of the MVT has a section where agni is drawn surrounded by the prominent R^iShi-s each holding the veda in hand. In medieval Japan some were accused as giving more importance to religion of the veda than saugatam.
 
+### buddhaguhya
 Commenting on this, buddhaguhya takes a position comparable to the bhagavad-gItA and effectively even the H religion leads to vairochana only (translation from the Chinese by Hodge).
 
 > People seek liberation through relying upon the self of ordinary foolish beings and upon the gods.  
