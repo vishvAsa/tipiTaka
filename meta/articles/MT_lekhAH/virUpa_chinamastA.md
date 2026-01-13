@@ -35,7 +35,5 @@ I salute that yoginI, the form of knowledge, the seal of yoga, who destroys the 
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-Curious about these offensive substances.
-
-Also B influence on H yogis & thinkers of the time is notable (seen also in shankara, effectively a prachChanna-mAdhyamika-bauddha)
+Curious about these offensive substances??
 </details>
